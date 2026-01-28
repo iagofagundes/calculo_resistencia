@@ -51,6 +51,8 @@ calcular.addEventListener('click', ()=>{
 
 })
 
+// Afunção principal fou substituida por uma arrow function ()=>
+
 
 
 
